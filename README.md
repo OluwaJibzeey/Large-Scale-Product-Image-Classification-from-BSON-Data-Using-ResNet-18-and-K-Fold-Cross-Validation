@@ -1,0 +1,1 @@
+# Large-Scale-Product-Image-Classification-from-BSON-Data-Using-ResNet-18-and-K-Fold-Cross-Validation
